@@ -1,0 +1,2466 @@
+---------------------------------------------------------------
+[ 2017-10-18T14:59:58+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.232795s][吞吐率：4.30req/s] [内存消耗：1,194.58kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:01:07+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.039782s][吞吐率：25.14req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:21+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.043356s][吞吐率：23.06req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:22+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.025346s][吞吐率：39.45req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:22+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.026585s][吞吐率：37.62req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:22+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.037004s][吞吐率：27.02req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:23+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.036565s][吞吐率：27.35req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:23+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.034007s][吞吐率：29.41req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:23+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.029166s][吞吐率：34.29req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:23+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.031419s][吞吐率：31.83req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:23+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.029624s][吞吐率：33.76req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:23+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.033304s][吞吐率：30.03req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:24+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.029816s][吞吐率：33.54req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:38+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.033823s][吞吐率：29.57req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:38+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.027726s][吞吐率：36.07req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:38+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.029163s][吞吐率：34.29req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:38+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.029799s][吞吐率：33.56req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:39+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.036751s][吞吐率：27.21req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:39+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.036489s][吞吐率：27.41req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:39+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.031516s][吞吐率：31.73req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:39+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.029663s][吞吐率：33.71req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:39+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.033954s][吞吐率：29.45req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:39+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.034300s][吞吐率：29.15req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:40+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.035369s][吞吐率：28.27req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:40+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.033490s][吞吐率：29.86req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:40+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.028138s][吞吐率：35.54req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:40+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.032056s][吞吐率：31.20req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:02:40+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.032799s][吞吐率：30.49req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:04:13+08:00 ] 0.0.0.0 127.0.0.1 GET /app
+[ info ] 127.0.0.1:86/app [运行时间：0.034756s][吞吐率：28.77req/s] [内存消耗：1,192.50kb] [文件加载：40]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'app',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:04:21+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.022115s][吞吐率：45.22req/s] [内存消耗：1,194.49kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:04:53+08:00 ] 0.0.0.0 127.0.0.1 GET /index.php/Admin/User/index/page/2.html
+[ info ] 127.0.0.1:86/index.php/Admin/User/index/page/2.html [运行时间：0.024117s][吞吐率：41.46req/s] [内存消耗：1,193.20kb] [文件加载：40]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'User',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'page' => '2',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:05:00+08:00 ] 0.0.0.0 127.0.0.1 GET /index.php
+[ info ] 127.0.0.1:86/index.php [运行时间：0.021154s][吞吐率：47.27req/s] [内存消耗：1,194.50kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:05:05+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.022316s][吞吐率：44.81req/s] [内存消耗：1,194.49kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:06:58+08:00 ] 0.0.0.0 127.0.0.1 GET /index.php/Admin/User/index/page/2.html
+[ info ] 127.0.0.1:86/index.php/Admin/User/index/page/2.html [运行时间：0.027336s][吞吐率：36.58req/s] [内存消耗：1,193.51kb] [文件加载：40]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'User',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'page' => '2',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:06:59+08:00 ] 0.0.0.0 127.0.0.1 GET /index.php/Admin/User/index/page/2.html
+[ info ] 127.0.0.1:86/index.php/Admin/User/index/page/2.html [运行时间：0.019415s][吞吐率：51.51req/s] [内存消耗：1,193.51kb] [文件加载：40]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Admin',
+    1 => 'User',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'page' => '2',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:09:39+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.040566s][吞吐率：24.65req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:10:24+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.021712s][吞吐率：46.06req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:10:25+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.031025s][吞吐率：32.23req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:10:25+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.035277s][吞吐率：28.35req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:10:25+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.035123s][吞吐率：28.47req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:10:26+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.037121s][吞吐率：26.94req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:10:26+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.032300s][吞吐率：30.96req/s] [内存消耗：1,194.55kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:10:45+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.087344s][吞吐率：11.45req/s] [内存消耗：1,160.16kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\IndexController->index[ G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\IndexController.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:11:01+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.033284s][吞吐率：30.04req/s] [内存消耗：1,160.24kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\IndexController->index[ G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\IndexController.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:11:08+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.028304s][吞吐率：35.33req/s] [内存消耗：1,160.16kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\IndexController->index[ G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\IndexController.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:31:39+08:00 ] 0.0.0.0 127.0.0.1 GET /msgs
+[ info ] 127.0.0.1:86/msgs [运行时间：0.027740s][吞吐率：36.05req/s] [内存消耗：1,160.34kb] [文件加载：37]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'function',
+  'function' => 
+  Closure::__set_state(array(
+  )),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Closure [ <user, prototype Closure> public method {closure} ] {
+  @@ G:\phpStudy\WWW\thinkphp\tp5\application\route.php 13 - 15
+}
+
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:39:19+08:00 ] 0.0.0.0 127.0.0.1 GET /photos
+[ info ] 127.0.0.1:86/photos [运行时间：0.023137s][吞吐率：43.22req/s] [内存消耗：1,194.45kb] [文件加载：40]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'photos',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:39:41+08:00 ] 0.0.0.0 127.0.0.1 GET /photos/create
+[ info ] 127.0.0.1:86/photos/create [运行时间：0.021043s][吞吐率：47.52req/s] [内存消耗：1,197.16kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => NULL,
+    1 => 'photo',
+    2 => 'create',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:39:54+08:00 ] 0.0.0.0 127.0.0.1 GET /index/create
+[ info ] 127.0.0.1:86/index/create [运行时间：0.020570s][吞吐率：48.61req/s] [内存消耗：1,196.51kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'create',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:40:46+08:00 ] 0.0.0.0 127.0.0.1 GET /index/create
+[ info ] 127.0.0.1:86/index/create [运行时间：0.022698s][吞吐率：44.06req/s] [内存消耗：1,196.57kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'create',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:40:53+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index
+[ info ] 127.0.0.1:86/index/index [运行时间：0.018960s][吞吐率：52.74req/s] [内存消耗：1,162.30kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\IndexController->index[ G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\IndexController.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:41:02+08:00 ] 0.0.0.0 127.0.0.1 GET /index/create
+[ info ] 127.0.0.1:86/index/create [运行时间：0.020726s][吞吐率：48.25req/s] [内存消耗：1,196.51kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'create',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:41:22+08:00 ] 0.0.0.0 127.0.0.1 GET /photos/create
+[ info ] 127.0.0.1:86/photos/create [运行时间：0.024271s][吞吐率：41.20req/s] [内存消耗：1,197.16kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => NULL,
+    1 => 'photo',
+    2 => 'create',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:41:44+08:00 ] 0.0.0.0 127.0.0.1 GET /index/create
+[ info ] 127.0.0.1:86/index/create [运行时间：0.021585s][吞吐率：46.33req/s] [内存消耗：1,196.51kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'create',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T15:42:12+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/create
+[ info ] 127.0.0.1:86/index/index/create [运行时间：0.017849s][吞吐率：56.02req/s] [内存消耗：1,162.33kb] [文件加载：38]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'create',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\IndexController->create[ G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\IndexController.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:06:33+08:00 ] 0.0.0.0 127.0.0.1 GET /photos/create
+[ info ] 127.0.0.1:86/photos/create [运行时间：0.027288s][吞吐率：36.65req/s] [内存消耗：1,197.09kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => NULL,
+    1 => 'photo',
+    2 => 'create',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => 'f1ad9a72-c8e9-5f6b-cfba-0e189129c3a2',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:08:43+08:00 ] 0.0.0.0 127.0.0.1 GET /photos
+[ info ] 127.0.0.1:86/photos [运行时间：0.028648s][吞吐率：34.91req/s] [内存消耗：1,195.27kb] [文件加载：40]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'photos',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => '77bf207f-0865-fff7-6461-75e9c896fa8d',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:10:08+08:00 ] 0.0.0.0 127.0.0.1 POST /photos
+[ info ] 127.0.0.1:86/photos [运行时间：0.024695s][吞吐率：40.49req/s] [内存消耗：1,163.02kb] [文件加载：37]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'function',
+  'function' => 
+  Closure::__set_state(array(
+  )),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'content-length' => '0',
+  'cache-control' => 'no-cache',
+  'origin' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => 'd60bb6cc-28e4-460a-e0bb-e9d31c5956e6',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Closure [ <user, prototype Closure> public method {closure} ] {
+  @@ G:\phpStudy\WWW\thinkphp\tp5\application\route.php 14 - 16
+}
+
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:10:17+08:00 ] 0.0.0.0 127.0.0.1 GET /photos
+[ info ] 127.0.0.1:86/photos [运行时间：0.023393s][吞吐率：42.75req/s] [内存消耗：1,195.27kb] [文件加载：40]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'photos',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => 'd3a9dc0a-d4c2-7e10-b809-4269b7b4efc6',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:11:52+08:00 ] 0.0.0.0 127.0.0.1 PUT /photos
+[ info ] 127.0.0.1:86/photos [运行时间：0.025803s][吞吐率：38.76req/s] [内存消耗：1,162.69kb] [文件加载：37]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'function',
+  'function' => 
+  Closure::__set_state(array(
+  )),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'content-length' => '0',
+  'cache-control' => 'no-cache',
+  'origin' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => '1aa0f5c9-9c70-fe22-f200-89e494be25be',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Closure [ <user, prototype Closure> public method {closure} ] {
+  @@ G:\phpStudy\WWW\thinkphp\tp5\application\route.php 20 - 22
+}
+
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:12:59+08:00 ] 0.0.0.0 127.0.0.1 GET /photos
+[ info ] 127.0.0.1:86/photos [运行时间：0.025292s][吞吐率：39.54req/s] [内存消耗：1,161.80kb] [文件加载：37]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'function',
+  'function' => 
+  Closure::__set_state(array(
+  )),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => '1a2e6c18-83cd-daff-a624-41e04f37655d',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Closure [ <user, prototype Closure> public method {closure} ] {
+  @@ G:\phpStudy\WWW\thinkphp\tp5\application\route.php 20 - 22
+}
+
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:13:07+08:00 ] 0.0.0.0 127.0.0.1 POST /photos
+[ info ] 127.0.0.1:86/photos [运行时间：0.021864s][吞吐率：45.74req/s] [内存消耗：1,162.62kb] [文件加载：37]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'function',
+  'function' => 
+  Closure::__set_state(array(
+  )),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'content-length' => '0',
+  'cache-control' => 'no-cache',
+  'origin' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => 'd2825b6c-9ed4-9efd-cb0e-06d81b5350fd',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Closure [ <user, prototype Closure> public method {closure} ] {
+  @@ G:\phpStudy\WWW\thinkphp\tp5\application\route.php 20 - 22
+}
+
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:14:11+08:00 ] 0.0.0.0 127.0.0.1 POST /photos
+[ info ] 127.0.0.1:86/photos [运行时间：0.026285s][吞吐率：38.04req/s] [内存消耗：1,162.62kb] [文件加载：37]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'function',
+  'function' => 
+  Closure::__set_state(array(
+  )),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'content-length' => '0',
+  'cache-control' => 'no-cache',
+  'origin' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => 'e4b16f93-a640-0ac5-67df-1415465e1147',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Closure [ <user, prototype Closure> public method {closure} ] {
+  @@ G:\phpStudy\WWW\thinkphp\tp5\application\route.php 20 - 22
+}
+
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:15:38+08:00 ] 0.0.0.0 127.0.0.1 GET /photos
+[ info ] 127.0.0.1:86/photos [运行时间：0.029414s][吞吐率：34.00req/s] [内存消耗：1,163.05kb] [文件加载：37]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'function',
+  'function' => 
+  Closure::__set_state(array(
+  )),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => '34afdf5c-620c-83f1-e3fe-40c0456d0d42',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Closure [ <user, prototype Closure> public method {closure} ] {
+  @@ G:\phpStudy\WWW\thinkphp\tp5\application\route.php 20 - 22
+}
+
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:16:00+08:00 ] 0.0.0.0 127.0.0.1 POST /photos
+[ info ] 127.0.0.1:86/photos [运行时间：0.021252s][吞吐率：47.05req/s] [内存消耗：1,163.87kb] [文件加载：37]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'function',
+  'function' => 
+  Closure::__set_state(array(
+  )),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'content-length' => '0',
+  'cache-control' => 'no-cache',
+  'origin' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => 'c70bd69a-09b7-ce08-4084-ac01167f0a9f',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Closure [ <user, prototype Closure> public method {closure} ] {
+  @@ G:\phpStudy\WWW\thinkphp\tp5\application\route.php 14 - 16
+}
+
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:16:08+08:00 ] 0.0.0.0 127.0.0.1 PUT /photos
+[ info ] 127.0.0.1:86/photos [运行时间：0.020317s][吞吐率：49.22req/s] [内存消耗：1,163.94kb] [文件加载：37]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'function',
+  'function' => 
+  Closure::__set_state(array(
+  )),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'content-length' => '0',
+  'cache-control' => 'no-cache',
+  'origin' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => '55197488-471c-4769-b2b7-ee68c8ec698a',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Closure [ <user, prototype Closure> public method {closure} ] {
+  @@ G:\phpStudy\WWW\thinkphp\tp5\application\route.php 17 - 19
+}
+
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:16:12+08:00 ] 0.0.0.0 127.0.0.1 POST /photos
+[ info ] 127.0.0.1:86/photos [运行时间：0.025244s][吞吐率：39.61req/s] [内存消耗：1,163.87kb] [文件加载：37]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'function',
+  'function' => 
+  Closure::__set_state(array(
+  )),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'content-length' => '0',
+  'cache-control' => 'no-cache',
+  'origin' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => 'f54d70d5-eedb-fa35-3fb0-9aba3a6da856',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Closure [ <user, prototype Closure> public method {closure} ] {
+  @@ G:\phpStudy\WWW\thinkphp\tp5\application\route.php 14 - 16
+}
+
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:20:48+08:00 ] 0.0.0.0 127.0.0.1 GET /photos
+[ info ] 127.0.0.1:86/photos [运行时间：0.029172s][吞吐率：34.28req/s] [内存消耗：1,163.05kb] [文件加载：37]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'function',
+  'function' => 
+  Closure::__set_state(array(
+  )),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => '8eacebcb-ac51-2915-f270-1386294614b8',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Closure [ <user, prototype Closure> public method {closure} ] {
+  @@ G:\phpStudy\WWW\thinkphp\tp5\application\route.php 20 - 22
+}
+
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:22:49+08:00 ] 0.0.0.0 127.0.0.1 POST /photos
+[ info ] 127.0.0.1:86/photos [运行时间：0.025533s][吞吐率：39.17req/s] [内存消耗：1,163.87kb] [文件加载：37]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'function',
+  'function' => 
+  Closure::__set_state(array(
+  )),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'content-length' => '0',
+  'cache-control' => 'no-cache',
+  'origin' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => '89872348-3ad1-5c7b-071f-aa512ec0a8d1',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Closure [ <user, prototype Closure> public method {closure} ] {
+  @@ G:\phpStudy\WWW\thinkphp\tp5\application\route.php 14 - 16
+}
+
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:22:52+08:00 ] 0.0.0.0 127.0.0.1 GET /photos
+[ info ] 127.0.0.1:86/photos [运行时间：0.026710s][吞吐率：37.44req/s] [内存消耗：1,163.05kb] [文件加载：37]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'function',
+  'function' => 
+  Closure::__set_state(array(
+  )),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => 'f4f3a98e-3af0-14f4-a742-6b112a87728a',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Closure [ <user, prototype Closure> public method {closure} ] {
+  @@ G:\phpStudy\WWW\thinkphp\tp5\application\route.php 20 - 22
+}
+
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:26:26+08:00 ] 0.0.0.0 127.0.0.1 GET /photos
+[ info ] 127.0.0.1:86/photos [运行时间：0.025464s][吞吐率：39.27req/s] [内存消耗：1,163.05kb] [文件加载：37]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'function',
+  'function' => 
+  Closure::__set_state(array(
+  )),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => 'ed61a61f-ff86-ba15-8581-75aa10b2bb9a',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] Closure [ <user, prototype Closure> public method {closure} ] {
+  @@ G:\phpStudy\WWW\thinkphp\tp5\application\route.php 20 - 22
+}
+
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:30:19+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.701793s][吞吐率：1.42req/s] [内存消耗：1,199.73kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\IndexController->index[ G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\IndexController.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined method app\index\controller\IndexController::display()[G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\IndexController.php:10]
+---------------------------------------------------------------
+[ 2017-10-18T16:30:45+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.020835s][吞吐率：48.00req/s] [内存消耗：1,199.84kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\IndexController->index[ G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\IndexController.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined method app\index\controller\IndexController::display()[G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\IndexController.php:10]
+---------------------------------------------------------------
+[ 2017-10-18T16:30:56+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.037899s][吞吐率：26.39req/s] [内存消耗：1,199.62kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\IndexController->index[ G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\IndexController.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined method app\index\controller\IndexController::display()[G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\IndexController.php:10]
+---------------------------------------------------------------
+[ 2017-10-18T16:31:16+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.038701s][吞吐率：25.84req/s] [内存消耗：1,199.66kb] [文件加载：41]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\IndexController->index[ G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\IndexController.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined method app\index\controller\IndexController::display()[G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\IndexController.php:10]
+---------------------------------------------------------------
+[ 2017-10-18T16:47:14+08:00 ] 0.0.0.0 127.0.0.1 GET /photos
+[ info ] 127.0.0.1:86/photos [运行时间：0.201434s][吞吐率：4.96req/s] [内存消耗：1,369.90kb] [文件加载：44]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Photo',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => '4c7e899f-b48e-8b9d-864e-5d8c27295b3d',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\PhotoController->index[ G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\PhotoController.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:47:42+08:00 ] 0.0.0.0 127.0.0.1 POST /photos
+[ info ] 127.0.0.1:86/photos [运行时间：0.025238s][吞吐率：39.62req/s] [内存消耗：1,370.71kb] [文件加载：44]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Photo',
+    2 => 'save',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'content-length' => '0',
+  'cache-control' => 'no-cache',
+  'origin' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => '44adebda-828b-eb09-992d-3b7dd17075bc',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\PhotoController->save[ G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\PhotoController.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:47:50+08:00 ] 0.0.0.0 127.0.0.1 GET /photos
+[ info ] 127.0.0.1:86/photos [运行时间：0.027690s][吞吐率：36.11req/s] [内存消耗：1,369.90kb] [文件加载：44]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Photo',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => 'e66739e2-f9a8-2b8f-1bd1-14b30467c672',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\PhotoController->index[ G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\PhotoController.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:48:05+08:00 ] 0.0.0.0 127.0.0.1 GET /photos/3
+[ info ] 127.0.0.1:86/photos/3 [运行时间：0.031017s][吞吐率：32.24req/s] [内存消耗：1,370.67kb] [文件加载：44]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Photo',
+    2 => 'read',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => 'fb59c768-6d08-b31b-6265-03bbe2f2d8fe',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '3',
+)
+[ info ] [ RUN ] app\index\controller\PhotoController->read[ G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\PhotoController.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:48:36+08:00 ] 0.0.0.0 127.0.0.1 GET /photos/3/edit
+[ info ] 127.0.0.1:86/photos/3/edit [运行时间：0.031045s][吞吐率：32.21req/s] [内存消耗：1,370.70kb] [文件加载：44]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Photo',
+    2 => 'edit',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => '1ef45f76-da61-f4ad-901c-a156d1482d2a',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '3',
+)
+[ info ] [ RUN ] app\index\controller\PhotoController->edit[ G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\PhotoController.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:49:16+08:00 ] 0.0.0.0 127.0.0.1 PUT /photos/3
+[ info ] 127.0.0.1:86/photos/3 [运行时间：0.036010s][吞吐率：27.77req/s] [内存消耗：1,371.55kb] [文件加载：44]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Photo',
+    2 => 'update',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'content-length' => '0',
+  'cache-control' => 'no-cache',
+  'origin' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => '48c85946-74ec-1be3-0b55-1f68e2eab2b4',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '3',
+)
+[ info ] [ RUN ] app\index\controller\PhotoController->update[ G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\PhotoController.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:49:37+08:00 ] 0.0.0.0 127.0.0.1 DELETE /photos/3
+[ info ] 127.0.0.1:86/photos/3 [运行时间：0.026465s][吞吐率：37.79req/s] [内存消耗：1,371.38kb] [文件加载：44]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Photo',
+    2 => 'delete',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'origin' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => 'ca0e2e2b-0abc-4839-d06a-7ef995359c21',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '3',
+)
+[ info ] [ RUN ] app\index\controller\PhotoController->delete[ G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\PhotoController.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:49:56+08:00 ] 0.0.0.0 127.0.0.1 POST /photos/3/edit
+[ info ] 127.0.0.1:86/photos/3/edit [运行时间：0.037809s][吞吐率：26.45req/s] [内存消耗：1,203.13kb] [文件加载：40]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'photos',
+    1 => '3',
+    2 => 'edit',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'content-length' => '0',
+  'cache-control' => 'no-cache',
+  'origin' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => '02168d45-fcdb-3380-875c-567dde2fdf3a',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:50:03+08:00 ] 0.0.0.0 127.0.0.1 POST /photos/3/edit
+[ info ] 127.0.0.1:86/photos/3/edit [运行时间：0.024087s][吞吐率：41.52req/s] [内存消耗：1,203.13kb] [文件加载：40]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'photos',
+    1 => '3',
+    2 => 'edit',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'content-length' => '0',
+  'cache-control' => 'no-cache',
+  'origin' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => '071ec849-188a-05f0-3f13-88da98f1d1a3',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:50:05+08:00 ] 0.0.0.0 127.0.0.1 GET /photos/3/edit
+[ info ] 127.0.0.1:86/photos/3/edit [运行时间：0.030003s][吞吐率：33.33req/s] [内存消耗：1,370.70kb] [文件加载：44]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Photo',
+    2 => 'edit',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => '45686bf5-b364-a023-2f4a-6fecd863ac96',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '3',
+)
+[ info ] [ RUN ] app\index\controller\PhotoController->edit[ G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\PhotoController.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:50:09+08:00 ] 0.0.0.0 127.0.0.1 PUT /photos/3/edit
+[ info ] 127.0.0.1:86/photos/3/edit [运行时间：0.023654s][吞吐率：42.28req/s] [内存消耗：1,203.20kb] [文件加载：40]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'photos',
+    1 => '3',
+    2 => 'edit',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'content-length' => '0',
+  'cache-control' => 'no-cache',
+  'origin' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => '2ff2c8d8-bab3-a60c-e85f-6d28edfe408e',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:50:14+08:00 ] 0.0.0.0 127.0.0.1 DELETE /photos/3/edit
+[ info ] 127.0.0.1:86/photos/3/edit [运行时间：0.023975s][吞吐率：41.71req/s] [内存消耗：1,203.02kb] [文件加载：40]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'photos',
+    1 => '3',
+    2 => 'edit',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'origin' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => '0c6fbe77-b4a6-9dc0-8795-2b063cd55efc',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:50:21+08:00 ] 0.0.0.0 127.0.0.1 GET /photos/3/edit
+[ info ] 127.0.0.1:86/photos/3/edit [运行时间：0.026152s][吞吐率：38.24req/s] [内存消耗：1,370.70kb] [文件加载：44]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Photo',
+    2 => 'edit',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => '165af66f-ff02-70a1-639c-6874e1f77d92',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '3',
+)
+[ info ] [ RUN ] app\index\controller\PhotoController->edit[ G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\PhotoController.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:50:52+08:00 ] 0.0.0.0 127.0.0.1 GET /photos/3/edit
+[ info ] 127.0.0.1:86/photos/3/edit [运行时间：0.026569s][吞吐率：37.64req/s] [内存消耗：1,370.70kb] [文件加载：44]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Photo',
+    2 => 'edit',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'postman-token' => 'f312c2bd-bb57-2505-c673-ed23e7a6c510',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'id' => '3',
+)
+[ info ] [ RUN ] app\index\controller\PhotoController->edit[ G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\PhotoController.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T16:53:41+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.447775s][吞吐率：2.23req/s] [内存消耗：1,210.23kb] [文件加载：42]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'app\index\controller\Controller' not found[G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\IndexController.php:6]
+---------------------------------------------------------------
+[ 2017-10-18T16:54:36+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.121555s][吞吐率：8.23req/s] [内存消耗：1,476.36kb] [文件加载：47]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\IndexController->index[ G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\IndexController.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-18T17:06:28+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:86/ [运行时间：0.061282s][吞吐率：16.32req/s] [内存消耗：1,366.77kb] [文件加载：45]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\tp5\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:86',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\IndexController->index[ G:\phpStudy\WWW\thinkphp\tp5\application\index\controller\IndexController.php ]
+[ info ] [ LOG ] INIT File

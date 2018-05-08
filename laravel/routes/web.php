@@ -12,5 +12,12 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('/index/index');
 });
+Route::get('/index',function(){
+    return view('/index/index');
+});
+Route::get('/index/index','IndexController@index');
+Route::get('/admin/index','AindexController@index');
+Route::get('/admin','AindexController@index');
+Route::get('/user/login','UserController@login');
